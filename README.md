@@ -1,5 +1,3 @@
-# Real-Time-Credit-Card-Fraud-Detection-using-OpenCV-Machine-Learning
-
 # Real-Time Credit Card Fraud Detection using OpenCV & Machine Learning
 
 ## 📖 Introduction
