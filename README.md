@@ -1,4 +1,4 @@
-# Real-Time Credit Card Fraud Detection using OpenCV & Machine Learning
+# Smart Vision & ML Playground : Credit Card Fraud Detection  / Face Detection using OpenCV & Machine Learning
 
 ## 📖 Introduction
 This project implements a **fraud detection system** that identifies suspicious/fraudulent transactions using **OpenCV (Computer Vision)** and **Machine Learning algorithms**.  
@@ -7,7 +7,7 @@ It is designed to help financial institutions and users detect fraudulent activi
 ---
 
 ## 🚀 Features
-- ✅ **Real-time fraud detection** using OpenCV  
+- ✅ **Real-time fraud and Face  detection** using OpenCV  
 - ✅ **Machine Learning models** (Logistic Regression, Decision Tree, Random Forest, etc.)  
 - ✅ **Secure & efficient system** to detect fraudulent transactions  
 - ✅ **Highly imbalanced dataset handling** (SMOTE / undersampling techniques)  
